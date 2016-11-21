@@ -1,5 +1,5 @@
 # encode!
 
-Usage: ./encode <in file> <out file> (<no of times default:5>)
+Usage: ./encode.sh in out [n, default:5]
 
 
