@@ -2,7 +2,7 @@
 
 ###About
 
-Compress an audio or image file recursively, as many times as you'd like!
+Compress an audio or image file recursively, as many times as you'd like! 
 
 ###Usage 
 ```
@@ -11,9 +11,10 @@ Compress an audio or image file recursively, as many times as you'd like!
 for audio
 or
 ```
-./imgencode in out <n>
+./imgencode.sh in out <n>
 ```
 for images
 
 ###Dependencies
-Requires LAME (http://lame.sf.net)
+LAME (http://lame.sf.net)
+SIPS (included on osx)
