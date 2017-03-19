@@ -16,5 +16,5 @@ or
 for images
 
 ### Dependencies
-LAME (http://lame.sf.net)
-SIPS (included on osx)
+- [LAME](http://lame.sf.net)
+- [Mozjpeg](https://github.com/mozilla/mozjpeg)
