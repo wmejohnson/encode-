@@ -1,10 +1,10 @@
 # encode!
 
-###About
+### About
 
 Compress an audio or image file recursively, as many times as you'd like! 
 
-###Usage 
+### Usage 
 ```
 ./encode.sh in out <n>
 ```
@@ -15,6 +15,6 @@ or
 ```
 for images
 
-###Dependencies
+### Dependencies
 LAME (http://lame.sf.net)
 SIPS (included on osx)
